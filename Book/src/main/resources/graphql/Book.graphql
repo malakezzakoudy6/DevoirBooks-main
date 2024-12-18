@@ -1,0 +1,12 @@
+type Book{
+    id_Book:String
+    title:String
+    resume:String
+    publisher:String
+    datePublication:Date
+
+}
+
+type Date {
+    datePublication:Date
+}
